@@ -1,5 +1,11 @@
 # livekit-plugins-openai
 
+## 0.10.4
+
+### Patch Changes
+
+- add x.ai support - [#907](https://github.com/livekit/agents/pull/907) ([@theomonnom](https://github.com/theomonnom))
+
 ## 0.10.3
 
 ### Patch Changes
